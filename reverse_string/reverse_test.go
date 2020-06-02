@@ -1,4 +1,4 @@
-package reverseString
+package reverse_string
 
 import (
 	"reflect"
